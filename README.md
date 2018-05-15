@@ -1,61 +1,17 @@
 # Analyzing Datasets with Python and Machine Learning Libraries
 
+Verision 0.1.0
+
 Project Utilizing Python datascience libraries, linear / polynomial regressions, k-means / k-nearest neighbor algorithms, and Jupyter Notebooks to analyze and present findings on datasets from kaggle.com.
 
-## Getting Started
+## Getting Started & Prerequisities
 
 1. Clone project from github to your machine
 2. `cd` into the project repo
 3. Create python virtualenv with `python3 -m venv env`
 4. Start virtualenv with `source bin/env/activate`
 5. Install project requirements with `pip install -r requirements.txt`
-
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+6. Start desired notebook with `jupyter <desired notebook>`
 
 ## Deployment
 
@@ -77,9 +33,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Tyler Fishbone** - [Github](https://github.com/tyler-fishbone)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+This project was done under the direction of Boris Epshtein, computer vision and machine learning researcher ([Boris's LinkedIn](https://www.linkedin.com/in/epshtein/)).
 
 ## License
 
@@ -87,6 +43,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Boris Epshtein
+* Scott Schmidt
