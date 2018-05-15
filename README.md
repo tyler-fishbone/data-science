@@ -1,6 +1,6 @@
 # Analyzing Datasets with Python and Machine Learning Libraries
 
-Verision 0.1.0
+**Verision** -  0.1.0
 
 Project Utilizing Python datascience libraries, linear / polynomial regressions, k-means / k-nearest neighbor algorithms, and Jupyter Notebooks to analyze and present findings on datasets from kaggle.com.
 
